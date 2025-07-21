@@ -1,8 +1,3 @@
-Sure, here's the same `README.md` with **all emojis removed** and clean formatting, ready for GitHub:
-
----
-
-````markdown
 # Home Server Setup Guide
 
 Turn an old laptop or PC into a powerful home server. This guide will walk you through a basic setup, from installation to secure remote access.
